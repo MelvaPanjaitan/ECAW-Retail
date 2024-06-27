@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Jumlah Asset-DDL</name>
+   <tag></tag>
+   <elementGuidId>6e02d5e4-0c99-4c92-8e7d-90c0a38aeb74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='main_ddlJumlahAssetSebelumnya']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_ddlJumlahAssetSebelumnya</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f7f87f95-2bf4-4a5f-bc42-7f0b260bf111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$ddlJumlahAssetSebelumnya</value>
+      <webElementGuid>32720835-6bbf-4cc4-9ea6-5babae6dfeee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_ddlJumlahAssetSebelumnya</value>
+      <webElementGuid>3a043705-c12a-4305-b66b-59bea1b662e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9f6e3edb-53f5-4b15-8b68-733efe470ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	--Select One--
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+
+</value>
+      <webElementGuid>7c8ec492-42a4-4c5a-8d1d-42f304999939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_ddlJumlahAssetSebelumnya&quot;)</value>
+      <webElementGuid>fc2e2160-7a36-43a7-b4ae-7b462202c00f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='main_ddlJumlahAssetSebelumnya']</value>
+      <webElementGuid>c51a56be-3771-45f1-93d4-e6673a88a22d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabcapital']/div[5]/div/div/div/div/select</value>
+      <webElementGuid>4a5b9f42-5887-4842-8869-64c9ef660e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah aset yang dimiliki sebelumnya'])[1]/following::select[1]</value>
+      <webElementGuid>9b443bf3-60cc-4fa7-898e-9f0e69313290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rapindo'])[1]/following::select[2]</value>
+      <webElementGuid>ebebbeae-3f56-4482-a0c1-3b2c9edcfb11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRP'])[1]/preceding::select[1]</value>
+      <webElementGuid>e2e75068-dffc-4934-a3c4-9337dca9fea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjelasan Rapindo'])[1]/preceding::select[1]</value>
+      <webElementGuid>2eb0fd09-aa0c-431b-907a-d4ecdc09db32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[5]/div/div/div/div/select</value>
+      <webElementGuid>0dac5d9e-3dac-4aef-848b-b416f044fafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$main$ddlJumlahAssetSebelumnya' and @id = 'main_ddlJumlahAssetSebelumnya' and (text() = '
+	--Select One--
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+
+' or . = '
+	--Select One--
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+
+')]</value>
+      <webElementGuid>78e8ee4d-a521-49cf-a91f-be3f87c0edbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

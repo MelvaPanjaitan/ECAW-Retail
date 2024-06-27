@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Credit Analyst Review</name>
+   <tag></tag>
+   <elementGuidId>622bbb91-c937-47af-a889-4451fa53cd02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='TreeView1t1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TreeView1t1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>58281204-1ec3-4cf2-89af-1b6adcbb0adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TreeView1_0 TreeView1_1 TreeView1_5 TreeView1_7</value>
+      <webElementGuid>ce363f41-1601-472b-926b-f8a8a9edd1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>credit-analyst-review.aspx</value>
+      <webElementGuid>35ea6838-bde2-4503-8346-9d5a62faf1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TreeView1t1</value>
+      <webElementGuid>ffd7c7ea-0af6-461d-ba09-c00a829a309f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Analyst Review</value>
+      <webElementGuid>6cd8b53b-a8ca-412e-841d-6b9117e0fab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TreeView1t1&quot;)</value>
+      <webElementGuid>91aa0724-a20b-467f-b6fb-ac8faa5129c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='TreeView1t1']</value>
+      <webElementGuid>efb7ad12-3100-4552-9659-65fb8ebc43c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TreeView1']/table[2]/tbody/tr/td[2]/a</value>
+      <webElementGuid>68d52bd2-14aa-4f18-9b6f-f35a5581c12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Credit Analyst Review')]</value>
+      <webElementGuid>b0f3b395-a12a-449f-ba54-558856d09bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Deviasi'])[1]/following::a[1]</value>
+      <webElementGuid>cc085598-8df8-4481-9800-b14d37ac82dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Navigation Links.'])[1]/following::a[2]</value>
+      <webElementGuid>48cb324b-6c8b-4d45-87bc-44de4b597916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Monitoring CA'])[1]/preceding::a[1]</value>
+      <webElementGuid>9bee6c09-728a-4f4a-a7d3-4feac3ebe90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Analyst Review'])[2]/preceding::a[3]</value>
+      <webElementGuid>ece5ebfe-fabe-42b0-b639-1669d7eacbe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Credit Analyst Review']/parent::*</value>
+      <webElementGuid>aa2fd5d5-95aa-41d6-9ada-f97560948935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'credit-analyst-review.aspx')]</value>
+      <webElementGuid>3e8fb12b-d9ee-48f3-9e86-1f54a34f11dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td[2]/a</value>
+      <webElementGuid>3ea391ea-83c6-463b-a17b-7ba5fa7a0736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'credit-analyst-review.aspx' and @id = 'TreeView1t1' and (text() = 'Credit Analyst Review' or . = 'Credit Analyst Review')]</value>
+      <webElementGuid>5660a914-d73a-4a35-8141-cd64838be1e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

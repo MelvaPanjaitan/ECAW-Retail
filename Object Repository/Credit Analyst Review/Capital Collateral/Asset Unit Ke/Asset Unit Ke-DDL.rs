@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Asset Unit Ke-DDL</name>
+   <tag></tag>
+   <elementGuidId>b3b13670-7a2f-4d20-8607-3e6a2ff6e74a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='main_ddlAsetUnitKeberapa']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_ddlAsetUnitKeberapa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>66c75d57-e378-48ed-98e7-e127fd1f7309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$ddlAsetUnitKeberapa</value>
+      <webElementGuid>ab0607c8-7d4b-4b3a-9d24-508edf51e885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_ddlAsetUnitKeberapa</value>
+      <webElementGuid>d9c374b7-3689-4126-8c72-8b598b185441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>626ee2bf-e1c6-4b39-b257-19802a10190f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	--Select One--
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+
+</value>
+      <webElementGuid>fdac4d0e-eaf1-435a-bbd2-1696a46242ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_ddlAsetUnitKeberapa&quot;)</value>
+      <webElementGuid>21c8d8b7-7ece-47b5-93e1-d934cccd290c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='main_ddlAsetUnitKeberapa']</value>
+      <webElementGuid>a2d66e5d-ebcf-40d7-9e1d-fbe734ecc394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabcapital']/div[4]/div/div/div/div/select</value>
+      <webElementGuid>ace1f224-34b7-4aa2-af88-ef0ebc9f7f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aset Unit Keberapa'])[1]/following::select[1]</value>
+      <webElementGuid>85153d19-8854-476a-a025-ee9d5b4c886a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Value'])[1]/following::select[1]</value>
+      <webElementGuid>e251b0d8-fc89-4f94-a4ff-dba2683a5808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun Kenderaan'])[1]/preceding::select[1]</value>
+      <webElementGuid>c7704a23-95fc-4087-b1a4-9c40970d6bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rapindo'])[1]/preceding::select[1]</value>
+      <webElementGuid>09ffd6d8-435a-420b-ab15-31a1c0fd3f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/select</value>
+      <webElementGuid>002f0694-f6de-4c7a-bca4-579b6404aa31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$main$ddlAsetUnitKeberapa' and @id = 'main_ddlAsetUnitKeberapa' and (text() = '
+	--Select One--
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+
+' or . = '
+	--Select One--
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+
+')]</value>
+      <webElementGuid>a7d9ebdf-1482-42b0-b40e-90404991365f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

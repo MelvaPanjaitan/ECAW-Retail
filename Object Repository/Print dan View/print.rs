@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>print</name>
+   <tag></tag>
+   <elementGuidId>ea4e287b-9719-45bc-beab-0c6e410f96f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_lvList_ctrl0_lbtngvdownload_0']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-print</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>618a859d-e808-4f92-86c4-b1287849d66a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-print</value>
+      <webElementGuid>5b2e27b3-a396-434b-8a7a-1933f4483199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_lvList_ctrl0_lbtngvdownload_0&quot;)/i[@class=&quot;fas fa-print&quot;]</value>
+      <webElementGuid>0133f474-9c9d-4eb1-a25c-2b1e74097720</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_lvList_ctrl0_lbtngvdownload_0']/i</value>
+      <webElementGuid>267d5cf0-9aa5-4edc-b01d-286969a9b7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/a/i</value>
+      <webElementGuid>30822be5-895e-404a-81f0-7da46c3233f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

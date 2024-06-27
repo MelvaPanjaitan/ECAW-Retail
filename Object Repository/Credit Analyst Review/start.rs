@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>start</name>
+   <tag></tag>
+   <elementGuidId>ca6de097-1ac5-4ad1-b19a-7299dfa30c8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_lvList_ctrl0_linkAction_0']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6948f9c5-80dc-4ccb-8f06-bc4f7684939f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit</value>
+      <webElementGuid>1caab23f-c60a-4822-ac44-a33adeb52ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_lvList_ctrl0_linkAction_0&quot;)/i[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>499a6125-8335-4447-b534-9155b8160355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_lvList_ctrl0_linkAction_0']/i</value>
+      <webElementGuid>f194269b-175d-4c17-a8d2-89a938a84ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/a/i</value>
+      <webElementGuid>b2fc174e-fcc3-47b5-bb7e-cb7f75ced867</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
